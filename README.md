@@ -6,11 +6,11 @@ App de historico de abastecimentos mantendo a mesma estrutura do projeto anterio
 
 ### Splash
 
-![Screenshot da Splash](./flutter_abastecimento_veiculos/assets/splash.png)
+![Screenshot da Splash](./assets/splash.png)
 
 ### Home
 
-![Screenshot da Home](./flutter_abastecimento_veiculos/assets/home.png)
+![Screenshot da Home](./assets/home.png)
 
 
 ```text
